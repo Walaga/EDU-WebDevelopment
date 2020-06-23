@@ -1,0 +1,16 @@
+img{
+   height: 250px; 
+   width: 250px;
+   
+}
+h1{
+    color: blue;
+
+}
+.profile_description{
+    color:  lightcoral
+}
+
+.profile_branches{
+    color: blueviolet;
+}
